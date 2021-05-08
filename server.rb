@@ -1,4 +1,4 @@
-# by running 'ruby site.rb' server will start to run 'site.rb'
+# by running 'ruby server.rb' server will start to run 'site.rb'
 # gem 'sinatra' will produce html result page on HTTP server address 0000000
 #  or direct to 'erb :index' file
 # 
