@@ -7,7 +7,7 @@
 # 
 # and then on terminal 'push heroku master' 하면 디플로이 됨
 # 
-require './site' # it tells heroku where is the application
+require './server' # it tells heroku where is the application
 
 run Sinatra::Application #it tells heroku it is a Sinatra Application
 
